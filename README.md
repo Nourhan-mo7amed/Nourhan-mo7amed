@@ -60,12 +60,5 @@ Here are some of the mobile apps and UI designs I worked on:
 - 💬 **WhatsApp**: [Chat with me](https://wa.me/+201224146857)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nourhan-mo7amed&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 > ✨ *"Code is like magic. The more you understand, the more powerful it gets!"*
 
