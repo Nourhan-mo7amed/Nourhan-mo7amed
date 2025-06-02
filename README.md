@@ -18,19 +18,61 @@
 
 ### 🚀 Projects
 
-Here are some of the mobile apps and UI designs I worked on:
+Here are some of the mobile apps and UI designs I've built or designed:
 
-| 🧩 Project | 💡 Description | 🔗 Links |
-|-----------|----------------|---------|
-| **Store App** | Online shopping app with full flow | [GitHub](https://github.com/Nourhan-mo7amed/Store-app.git) |
-| **Login App** | Secure and user-friendly auth system | [GitHub](https://github.com/Nourhan-mo7amed/Login.git) |
-| **Points Counter** | Point tracking app | [GitHub](https://github.com/Nourhan-mo7amed/Points-Counter.git) |
-| **Task Cat** | Task management tool | [GitHub](https://github.com/Nourhan-mo7amed/Task-Cat.git) |
-| **Card Flutter** | Digital business card | [GitHub](https://github.com/Nourhan-mo7amed/Card-FLUTTER.git) |
-| **Toku App** | Educational app for learning languages | [GitHub](https://github.com/Nourhan-mo7amed/Toku-App.git) |
-| **Flower App** | Flower details and gallery app | [GitHub](https://github.com/Nourhan-mo7amed/flower.git) |
-| **Hotel UI** | Hotel booking UI design (Figma) | [Figma](https://www.figma.com/proto/h5aveDuhemMjvTv4PNjEdc/hotel?page-id=0%3A1) |
-| **Music UI** | Music streaming UI design (Figma) | [Figma](https://www.figma.com/proto/o9tcn5aPgp4pdjne0RCu9M/music?page-id=0%3A286) |
+---
+
+#### 📱 **Store App**
+🛒 Full-featured online shopping mobile app  
+🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Store-app.git)
+
+---
+
+#### 🔐 **Login App**
+A secure and user-friendly authentication system  
+🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Login.git)
+
+---
+
+#### 🎯 **Points Counter**
+Simple app to keep track of points during games or activities  
+🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Points-Counter.git)
+
+---
+
+#### ✅ **Task Cat**
+Task management app with clean UI and intuitive features  
+🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Task-Cat.git)
+
+---
+
+#### 💳 **Card Flutter**
+Digital business card application — lightweight and sleek  
+🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Card-FLUTTER.git)
+
+---
+
+#### 🌍 **Toku App**
+Educational language learning app for beginners  
+🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Toku-App.git)
+
+---
+
+#### 🌸 **Flower App**
+App to explore flower types with images and details  
+🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/flower.git)
+
+---
+
+#### 🏨 **Hotel UI (Figma Design)**
+Clean and modern UI for hotel booking app  
+🎨 [View Figma Design](https://www.figma.com/proto/h5aveDuhemMjvTv4PNjEdc/hotel?page-id=0%3A1)
+
+---
+
+#### 🎵 **Music UI (Figma Design)**
+Music streaming app UI with interactive elements  
+🎨 [View Figma Design](https://www.figma.com/proto/o9tcn5aPgp4pdjne0RCu9M/music?page-id=0%3A286)
 
 ---
 
