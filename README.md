@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Projects
----
+
 
 #### 📱 **Store App**  
 🛒 Full-featured online shopping mobile app  
@@ -80,8 +80,3 @@ Responsive UI for music streaming platform
 - 💼 [LinkedIn](https://www.linkedin.com/in/nourhan-maghawry-bb3157316)
 - 💬 [WhatsApp](https://wa.me/+201224146857)
 - 🐙 [GitHub](https://github.com/Nourhan-mo7amed)
-
----
-
-
-> 💡 “Code is like art — the cleaner, the better.”  
