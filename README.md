@@ -42,27 +42,9 @@ Simple app to track points in games
 
 ---
 
-#### ✅ **Task Cat**  
-Task management app with intuitive UI  
-🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Task-Cat.git)
-
----
-
-#### 💳 **Card Flutter**  
-Digital business card application  
-🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Card-FLUTTER.git)
-
----
-
 #### 🌍 **Toku App**  
 Educational app for language learning  
 🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Toku-App.git)
-
----
-
-#### 🌸 **Flower App**  
-Beautiful flower gallery with descriptions  
-🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/flower.git)
 
 ---
 
@@ -106,10 +88,5 @@ Responsive UI for music streaming platform
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nourhan-mo7amed&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 > 💡 “Code is like art — the cleaner, the better.”  
