@@ -40,27 +40,9 @@ Simple app to keep track of points during games or activities
 
 ---
 
-#### ✅ **Task Cat**
-Task management app with clean UI and intuitive features  
-🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Task-Cat.git)
-
----
-
-#### 💳 **Card Flutter**
-Digital business card application — lightweight and sleek  
-🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Card-FLUTTER.git)
-
----
-
 #### 🌍 **Toku App**
 Educational language learning app for beginners  
 🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Toku-App.git)
-
----
-
-#### 🌸 **Flower App**
-App to explore flower types with images and details  
-🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/flower.git)
 
 ---
 
