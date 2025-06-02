@@ -1,64 +1,84 @@
-<h1 align="center">Hi there 👋, I'm Nourhan Mohamed</h1>
+<h1 align="center">Hey there 👋, I'm Nourhan Mohamed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%90%BB;Computer+Science+Student+%F0%9F%8E%93;Passionate+about+Mobile+Apps+%F0%9F%92%BB;Open+to+Internships+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%90%BB;Computer+Science+Student+%F0%9F%8E%93;UI%2FUX+Lover+%F0%9F%92%A1;Open+to+Internships+and+Learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 CS Student at **Mansoura University**
-- 💙 Passionate about **Flutter & Mobile App Development**
-- 🧩 Interested in UI/UX, Animations & Clean Architecture
-- 🌱 Currently learning: Advanced Flutter techniques
-- 🚀 Always looking for exciting challenges and learning opportunities
+- 🎓 Computer Science student at **Mansoura University**
+- 💙 Passionate about **Flutter**, **Mobile Apps**, and UI/UX
+- 🔧 Building mobile apps with clean architecture and smooth animations
+- 📚 Always exploring new tech, design patterns & tools
+- 🌱 Currently improving skills in **state management** and **responsive UI**
 
 ---
 
 ### 🚀 Projects
 
-Here are some of the mobile apps and UI designs I've built or designed:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=ff00ff&center=true&vCenter=true&width=450&lines=Check+Out+My+Awesome+Flutter+Projects+%F0%9F%92%BB" alt="Typing Animation" />
+</p>
 
 ---
 
-#### 📱 **Store App**
+#### 📱 **Store App**  
 🛒 Full-featured online shopping mobile app  
-🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Store-app.git)
+🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Store-app.git)
 
 ---
 
-#### 🔐 **Login App**
-A secure and user-friendly authentication system  
-🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Login.git)
+#### 🔐 **Login App**  
+Secure and user-friendly login system  
+🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Login.git)
 
 ---
 
-#### 🎯 **Points Counter**
-Simple app to keep track of points during games or activities  
-🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Points-Counter.git)
+#### 🎯 **Points Counter**  
+Simple app to track points in games  
+🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Points-Counter.git)
 
 ---
 
-#### 🌍 **Toku App**
-Educational language learning app for beginners  
-🔗 [View on GitHub](https://github.com/Nourhan-mo7amed/Toku-App.git)
+#### ✅ **Task Cat**  
+Task management app with intuitive UI  
+🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Task-Cat.git)
 
 ---
 
-#### 🏨 **Hotel UI (Figma Design)**
-Clean and modern UI for hotel booking app  
-🎨 [View Figma Design](https://www.figma.com/proto/h5aveDuhemMjvTv4PNjEdc/hotel?page-id=0%3A1)
+#### 💳 **Card Flutter**  
+Digital business card application  
+🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Card-FLUTTER.git)
 
 ---
 
-#### 🎵 **Music UI (Figma Design)**
-Music streaming app UI with interactive elements  
-🎨 [View Figma Design](https://www.figma.com/proto/o9tcn5aPgp4pdjne0RCu9M/music?page-id=0%3A286)
+#### 🌍 **Toku App**  
+Educational app for language learning  
+🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Toku-App.git)
 
 ---
 
-### 🛠 Tech Stack & Skills
+#### 🌸 **Flower App**  
+Beautiful flower gallery with descriptions  
+🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/flower.git)
+
+---
+
+#### 🏨 **Hotel UI (Figma)**  
+Clean and modern UI design for hotel booking  
+🎨 [View Design](https://www.figma.com/proto/h5aveDuhemMjvTv4PNjEdc/hotel?page-id=0%3A1)
+
+---
+
+#### 🎵 **Music UI (Figma)**  
+Responsive UI for music streaming platform  
+🎨 [View Design](https://www.figma.com/proto/o9tcn5aPgp4pdjne0RCu9M/music?page-id=0%3A286)
+
+---
+
+### 🛠️ Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -68,21 +88,28 @@ Music streaming app UI with interactive elements
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Integration-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI/UX-Design-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-Principles-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-Integration-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Concepts-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Let’s Connect!
+### 📬 Let's Connect!
 
-- 📧 **Email**: [nourhan.moh71@gmail.com](mailto:nourhan.moh71@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/nourhan-maghawry](https://www.linkedin.com/in/nourhan-maghawry-bb3157316)  
-- 🐙 **GitHub**: [github.com/Nourhan-mo7amed](https://github.com/Nourhan-mo7amed)  
-- 💬 **WhatsApp**: [Chat with me](https://wa.me/+201224146857)
+- 📧 [nourhan.moh71@gmail.com](mailto:nourhan.moh71@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nourhan-maghawry-bb3157316)
+- 💬 [WhatsApp](https://wa.me/+201224146857)
+- 🐙 [GitHub](https://github.com/Nourhan-mo7amed)
 
 ---
-> ✨ *"Code is like magic. The more you understand, the more powerful it gets!"*
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nourhan-mo7amed&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+> 💡 “Code is like art — the cleaner, the better.”  
