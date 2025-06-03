@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nourhan Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Nourhan Maghawry</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%90%BB;Computer+Science+Student+%F0%9F%8E%93;UI%2FUX+Lover+%F0%9F%92%A1;Open+to+Internships+and+Learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
