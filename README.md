@@ -9,9 +9,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Computer Science student at **Mansoura University**
-- 💙 Passionate about **Flutter**, **Mobile Apps**, and UI/UX
-- 🔧 Building mobile apps with clean architecture and smooth animations
-- 📚 Always exploring new tech, design patterns & tools
+- 📱 Passionate about **Flutter**, **Mobile Apps**, and UI/UX
 - 🌱 Currently improving skills in **state management** and **responsive UI**
 
 ---
@@ -74,7 +72,7 @@ Responsive UI for music streaming platform
 
 ---
 
-### 📬 Let's Connect!
+### 📩Connect with me:
 
 - 📧 [nourhan.moh71@gmail.com](mailto:nourhan.moh71@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nourhan-maghawry-bb3157316)
