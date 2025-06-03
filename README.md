@@ -14,45 +14,6 @@
 
 ---
 
-### 🚀 Projects
-
-
-#### 📱 **Store App**  
-🛒 Full-featured online shopping mobile app  
-🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Store-app.git)
-
----
-
-#### 🔐 **Login App**  
-Secure and user-friendly login system  
-🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Login.git)
-
----
-
-#### 🎯 **Points Counter**  
-Simple app to track points in games  
-🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Points-Counter.git)
-
----
-
-#### 🌍 **Toku App**  
-Educational app for language learning  
-🔗 [GitHub Repository](https://github.com/Nourhan-mo7amed/Toku-App.git)
-
----
-
-#### 🏨 **Hotel UI (Figma)**  
-Clean and modern UI design for hotel booking  
-🎨 [View Design](https://www.figma.com/proto/h5aveDuhemMjvTv4PNjEdc/hotel?page-id=0%3A1)
-
----
-
-#### 🎵 **Music UI (Figma)**  
-Responsive UI for music streaming platform  
-🎨 [View Design](https://www.figma.com/proto/o9tcn5aPgp4pdjne0RCu9M/music?page-id=0%3A286)
-
----
-
 ### 🛠️ Skills & Tools
 
 <p align="center">
