@@ -7,7 +7,6 @@
 - 🎓 **Computer Science Student** at *Mansoura University*  
 - 📱 Passionate about **Flutter**, **Mobile Development**, and **UI/UX**  
 - 🌱 Currently improving skills in **State Management** & **Responsive UI**  
-- 💡 Love turning **ideas** into **beautiful apps**  
 
 ---
 
