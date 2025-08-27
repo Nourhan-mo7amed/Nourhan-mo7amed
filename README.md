@@ -33,5 +33,4 @@
 
 - 📧 [nourhan.moh71@gmail.com](mailto:nourhan.moh71@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nourhan-maghawry-bb3157316)
-- 💬 [WhatsApp](https://wa.me/+201224146857)
 - 🐙 [GitHub](https://github.com/Nourhan-mo7amed)
