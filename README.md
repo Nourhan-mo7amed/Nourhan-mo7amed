@@ -1,36 +1,53 @@
 <h1 align="center">Hi 👋, I'm Nourhan Maghawry</h1>
-
-
-
-### 👩‍💻 About Me
-
-- 🎓 Computer Science student at **Mansoura University**
-- 📱 Passionate about **Flutter**, **Mobile Apps**, and UI/UX
-- 🌱 Currently improving skills in **state management** and **responsive UI**
-
----
-
-### 🛠️ Skills & Tools
+<h3 align="center">🚀 Flutter Developer | 💻 Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API-Integration-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-Concepts-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </p>
 
 ---
 
-### 📩Connect with me:
+### 👩‍💻 About Me
+- 🎓 **Computer Science Student** at *Mansoura University*  
+- 📱 Passionate about **Flutter**, **Mobile Development**, and **UI/UX**  
+- 🌱 Currently improving skills in **State Management** & **Responsive UI**  
+- 💡 Love turning **ideas** into **beautiful apps**  
 
-- 📧 [nourhan.moh71@gmail.com](mailto:nourhan.moh71@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nourhan-maghawry-bb3157316)
-- 🐙 [GitHub](https://github.com/Nourhan-mo7amed)
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Integration-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-Concepts-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nourhan-mo7amed&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhan-mo7amed&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:nourhan.moh71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nourhan-maghawry-bb3157316"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Nourhan-mo7amed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
